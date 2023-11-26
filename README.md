@@ -1,2 +1,2 @@
-# terraform1-week10
+# terraformproject10
 multi tier app splited code
